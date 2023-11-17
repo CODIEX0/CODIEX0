@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sibusiso Ntuli</h1>
+<h4 align="center">Im a Junior Software Engineer with 3 years of experience in developing full stack applications using C#, Java, Kotlin and Solidity.</h4>
+</div>
 
-<!--
-**CODIEX0/CODIEX0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/CODIEX0">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-Here are some ideas to get you started:
+<hr> 
+<p align='center'>
+  💻 &nbsp;My workspace<br/><br/>
+<!-- <img alt="os" src="https://img.shields.io/badge/Apple-Acer_Nitro_5-999999?style=flat&logo=apple&logoColor=white" />  -->
+  <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img alt="ssd" src="https://img.shields.io/badge/512%20GB%20SSD-grey?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
