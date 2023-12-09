@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi there, my name is <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,Sibusiso Ntuli</h1>
+<h1 align="center">Hi there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, my name is ,Sibusiso Ntuli</h1>
 <h4 align="center">Im a Software Engineer with 3 years of experience in developing full stack applications using C#, Java, Kotlin and Solidity.</h4>
 </div>
 
