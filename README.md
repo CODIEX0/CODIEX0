@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sibusiso Ntuli</h1>
-<h4 align="center">Im a Junior Software Engineer with 3 years of experience in developing full stack applications using C#, Java, Kotlin and Solidity.</h4>
+<h1 align="center">Hi there, my name is <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,Sibusiso Ntuli</h1>
+<h4 align="center">Im a Software Engineer with 3 years of experience in developing full stack applications using C#, Java, Kotlin and Solidity.</h4>
 </div>
 
 <div align="center">
