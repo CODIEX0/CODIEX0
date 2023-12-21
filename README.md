@@ -5,7 +5,7 @@
 I'm currently a Freelance developer
 
 🤝 Let's connect and explore the world of code together!</h4> <br/>
-<a href="https://codiex0.github.io/portfolio/" >Portfolio</a>
+<a href="https://codiex0.github.io/portfolio/" >My Online Portfolio</a>
 </div>
 
 
