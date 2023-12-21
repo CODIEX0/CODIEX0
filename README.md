@@ -7,6 +7,8 @@ I'm currently a Freelance developer
 🤝 Let's connect and explore the world of code together!</h4>
 </div>
 
+<a href="https://codiex0.github.io/portfolio/" class="btn-rounded-white">Portfolio</a>
+
 <div align="center">
   <a href="https://github.com/CODIEX0">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
