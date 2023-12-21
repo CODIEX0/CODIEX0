@@ -4,10 +4,11 @@
 
 I'm currently a Freelance developer
 
-🤝 Let's connect and explore the world of code together!</h4>
+🤝 Let's connect and explore the world of code together!</h4> <br/>
+<a href="https://codiex0.github.io/portfolio/" >Portfolio</a>
 </div>
 
-<a href="https://codiex0.github.io/portfolio/" class="btn-rounded-white">Portfolio</a>
+
 
 <div align="center">
   <a href="https://github.com/CODIEX0">
