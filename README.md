@@ -8,14 +8,6 @@ I'm currently a Freelance developer
 <a href="https://codiex0.github.io/portfolio/" >My Online Portfolio</a>
 </div>
 
-
-
-<div align="center">
-  <a href="https://github.com/CODIEX0">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <hr> 
 <p align='center'>
   💻 &nbsp;My workspace<br/><br/>
