@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, my name is Sibusiso Ntuli</h1>
+<h1 align="center">Hi there 🖐🏿, my name is Sibusiso Ntuli</h1>
 <h4 align="center">Im passionate about software engineering. Proficient in C#, Java, Kotlin, and JavaScript, I've tackled real-world projects, refining my problem-solving skills along the way.
 
 I'm currently a Freelance developer
