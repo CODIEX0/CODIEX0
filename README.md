@@ -1,15 +1,21 @@
 <div align="center">
-<h1 align="center">Hi there 🖐🏿, my name is Sibusiso Ntuli</h1>
-<h4 align="center">Im passionate about software engineering. Proficient in C#, Java, Kotlin, and JavaScript, I've tackled real-world projects, refining my problem-solving skills along the way.
+<h1 align="center">Hi there 🖐🏿, im Sibusiso Ntuli</h1>
+<h4 align="center">I am a Junior Software Engineer.</h4>
 
-I'm currently a Freelance developer
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/> <br/>
 
 🤝 Let's connect and explore the world of code together!</h4> <br/>
-<a href="https://codiex0.github.io/portfolio/" >My Online Portfolio</a>
 </div>
 
 <hr> 
 <p align='center'>
+
+  <a href="www.linkedin.com/in/sibusiso-ntuli-b55638247" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="[https://sam-portfolio-project.vercel.app/](https://codiex0.github.io/portfolio/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a> <br/>
   💻 &nbsp;My workspace<br/><br/>
 <!-- <img alt="os" src="https://img.shields.io/badge/Apple-Acer_Nitro_5-999999?style=flat&logo=apple&logoColor=white" />  -->
   <img alt="soc" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
@@ -17,19 +23,9 @@ I'm currently a Freelance developer
   <img alt="ssd" src="https://img.shields.io/badge/512%20GB%20SSD-grey?style=for-the-badge" />
 </p>
 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)" width="300"/>
+<div id="header" align="center"> 
   
-  # Hi, I'm Sam 👋
-  ### I am a Software Developer
 
-  <a href="https://www.linkedin.com/in/samuel-santos-webdev/?profileId=ACoAACQMsI0Bf5sG7pV4BwaOJx4Fnesnp6MI68g" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://sam-portfolio-project.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  
   ### Frontend
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
   [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
