@@ -4,6 +4,8 @@
   
 ### I am a Junior Software Engineer
 
+# "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
+
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/> <br/>
 
 🤝 Let's connect and explore the world of code together!</h4> <br/>
