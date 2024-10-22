@@ -12,12 +12,11 @@
 
 <p align='center'>
 
-  <a hsrcref="www.linkedin.com/in/sibusiso-ntuli-b55638247" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a src="[https://sam-portfolio-project.vercel.app/](https://codiex0.github.io/portfolio/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a> <br/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sibusiso-ntuli-b55638247)
+
+   
+ [![MyPortfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://codiex0.github.io/portfolio/)
+
   <br/>
   
  ### My workspace
